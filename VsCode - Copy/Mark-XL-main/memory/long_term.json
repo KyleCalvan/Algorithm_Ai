@@ -1,0 +1,43 @@
+{
+  "identity": {
+    "email": {
+      "value": "fzelvan.kayan@gmail.com",
+      "updated": "2026-06-21"
+    },
+    "creator_name": {
+      "value": "kyle andrew p calvan",
+      "updated": "2026-07-15"
+    },
+    "university": {
+      "value": "university of caloocan city",
+      "updated": "2026-07-15"
+    },
+    "course": {
+      "value": "bachelor in science in computer science",
+      "updated": "2026-07-15"
+    }
+  },
+  "preferences": {},
+  "projects": {
+    "jarvis_testing_path": {
+      "value": "C:\\Users\\Kyle\\Downloads\\VsCode - Copy\\Jarvis testing",
+      "updated": "2026-06-27"
+    },
+    "jarvis_uploads_path": {
+      "value": "C:\\Users\\Kyle\\Downloads\\VsCode - Copy\\JARVIS Uploads",
+      "updated": "2026-06-27"
+    },
+    "jarvis_projects_path": {
+      "value": "C:\\Users\\Kyle\\Downloads\\VsCode - Copy\\JarvisProjects",
+      "updated": "2026-06-27"
+    }
+  },
+  "relationships": {},
+  "wishes": {},
+  "notes": {
+    "ffmpeg_video_compression_command": {
+      "value": "ffmpeg -i input.mp4 -c:v libx264 -crf 22 -preset medium output.mp4",
+      "updated": "2026-06-23"
+    }
+  }
+}

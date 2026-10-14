@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import ast; ast.parse\\(open\\('snake.py'\\).read\\(\\)\\); print\\('Syntax OK'\\)\")",
+      "Bash(docker version *)",
+      "Bash(docker compose *)"
+    ]
+  }
+}
